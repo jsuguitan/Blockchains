@@ -1,0 +1,16 @@
+{
+  "name": "blockchains",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "latest-version": "~3.1.0",
+    "poloniex-api-node": "^1.9.0",
+    "request": "^2.87.0"
+  }
+}
